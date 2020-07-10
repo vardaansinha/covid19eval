@@ -252,7 +252,7 @@ menu2backup ul li {
     }
 
 }
-@media (min-device-width: 375px) and (max-device-width: 667px) {
+@media (min-device-width: 375px) and (max-device-width: 667px) and (orientation: landscape) and (orientation: portrait) {
     .container {
         width: 340vh !important;
         height: 100vh !important;
