@@ -254,7 +254,7 @@ menu2backup ul li {
 }
 @media (min-device-width: 375px) and (max-device-width: 667px) {
     .container {
-        width: 240vh !important;
+        width: 340vh !important;
         height: 100vh !important;
     }
     .text {
