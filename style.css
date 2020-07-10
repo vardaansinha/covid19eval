@@ -214,7 +214,7 @@ menu2backup ul li {
 }
 @media (min-width: 320px) and (max-width: 767px) {
     .container {
-        width: 340vh !important;
+        width: 540vh !important;
         height: 150vh !important;
     }
     .text {
@@ -228,10 +228,10 @@ menu2backup ul li {
         width: 600vh !important;
     }
     .container2 {
-        width: 600vh !important;
+        width: 630vh !important;
     }
     .container3 {
-        width: 208vh !important;
+        width: 210vh !important;
     }
     .menu {
         top: 50 px;
@@ -254,7 +254,7 @@ menu2backup ul li {
 }
 @media (min-device-width: 375px) and (max-device-width: 667px) and (orientation: landscape) and (orientation: portrait) {
     .container {
-        width: 340vh !important;
+        width: 540vh !important;
         height: 100vh !important;
     }
     .text {
@@ -268,10 +268,10 @@ menu2backup ul li {
         width: 600vh !important;
     }
     .container2 {
-        width: 600vh !important;
+        width: 630vh !important;
     }
     .container3 {
-        width: 208vh !important;
+        width: 210vh !important;
     }
     .menu {
         top: 50 px;
