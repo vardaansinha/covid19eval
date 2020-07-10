@@ -212,7 +212,7 @@ menu2backup ul li {
 .feedback {
     margin-left: 20px;
 }
-@media (min-width: 320px) and (max-width: 767px) {
+@media (min-width: 320px) and (max-width: 767px) and (max-height: 667px) {
     .container {
         width: 540vh !important;
         height: 150vh !important;
@@ -252,7 +252,7 @@ menu2backup ul li {
     }
 
 }
-@media (min-device-width: 375px) and (max-device-width: 667px) and (orientation: landscape) and (orientation: portrait) {
+@media (min-device-width: 375px) and (max-device-width: 667px) and (max-device-height: 667px) {
     .container {
         width: 540vh !important;
         height: 100vh !important;
