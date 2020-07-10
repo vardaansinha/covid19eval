@@ -252,45 +252,7 @@ menu2backup ul li {
     }
 
 }
-@media (min-device-width: 375px) and (max-device-width: 667px) {
-    .container {
-        width: 340vh !important;
-        height: 100vh !important;
-    }
-    .text {
-        font-size: 35px;
-        margin-left: -950px;
-    }
-    .summary {
-        font-size: 22px;
-    }
-    .container1 {
-        width: 900vh !important;
-    }
-    .container2 {
-        width: 900vh !important;
-    }
-    .container3 {
-        width: 208vh !important;
-    }
-    .menu {
-        top: 50 px;
-        width: 100%;
-        transition: top 0.3s;
-    }
-    .menu ul {
-        display: inline-flex;
-        margin-left: 1030px;
-        margin-top: 60px;
-    }
-    .menu ul li {
-        display: inline-flex;
-        margin: 0 40px;
-        color: #ffffff;
-        cursor: pointer;
-        font-size: 20px;
-    }
-}
+
 @media (min-width: 768px) {
     .container {
         width: 240vh !important;
